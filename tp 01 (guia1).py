@@ -537,4 +537,3 @@ opc2+=n1
 print('Opción 1:',10-opc2,'\nOpción 2:',opc2)
 exit()
 '''
-#the 
