@@ -1,12 +1,10 @@
-
-
 ####OJO LAS COMAS VAN CON PUNTOS####
 
 #ejercicio 1.3
 ''' Confeccionar un programa en el que se ingrese la base y la altura de un triángulo e informe su superficie.
-    Ejemplo:Ingrese base del triángulo: 20
-        Ingrese altura del triángulo: 4.6
-        Para una base de 20.00 y una altura de 4.60 la superficie del triángulo será de: 46.00
+Ejemplo:Ingrese base del triángulo: 20
+Ingrese altura del triángulo: 4.6
+Para una base de 20.00 y una altura de 4.60 la superficie del triángulo será de: 46.00
 '''
 #resolucion 1.3
 '''
@@ -279,8 +277,6 @@ print('El doble de ',inverso,' es ',inverso*2)
 
 exit()
 '''
-#REHACER EJERCICIO 1.8 
-#
 '''
 b= 7//2  
 c= 7%2
@@ -385,7 +381,7 @@ Necesitarás
 #resolucion 1.4
 
 '''
-alfajorsitos = int(input('ingrese la cantidad de alfajorsitos que queres hacer: '))
+alfajorcitos = int(input('ingrese la cantidad de alfajorsitos que queres hacer: '))
 
 RelacAlf = 15
 
