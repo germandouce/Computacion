@@ -34,7 +34,7 @@ print('mumeros generados:')
 for numeros in numtot:
     print(numeros)'''
 #opcion 2
-'''
+
 from random import choice
 numeros=set()
 sub=0
@@ -50,4 +50,4 @@ for n in numeros:                   #= REPETIDOS
 print('debajo de 50',sub)
 print('Arriba o igual a 50',20-sub)
 exit()
-'''
+

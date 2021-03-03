@@ -11,7 +11,7 @@ Números Positivos
 Cero vino 0 veces
 Vinieron 49 números diferentes
 '''
-'''
+
 #lo comentado fue útil para corroborar resultado
 
 import random
@@ -44,4 +44,3 @@ print(lpos)
 print()
 print('Cero vino',cero,'veces')
 print('Vinieron', dif, 'numeros diferentes')
-'''
