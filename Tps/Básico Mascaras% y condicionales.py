@@ -27,7 +27,7 @@ exit()
 '''
 Ahora imaginemos que en la empresa se abona un plus fijo de guardería a todo trabajador que 
 tiene hijos. Y se le paga un 10% de incentivo a todo trabajador que haya hecho más de 30 horas 
-y noreciba el plus por guardería.
+y no reciba el plus por guardería.
 '''
 #opcion 1
 '''
