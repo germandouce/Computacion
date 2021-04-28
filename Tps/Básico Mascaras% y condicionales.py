@@ -1,5 +1,5 @@
 '''
-Las mascaras sirven para "llamar" el contenido de una variable dentro de 
+Las mascaras sirven xa "llamar" el contenido de una variable dentro de 
 un print o un input cuando la operacion esta hecha dentro de la misma funcion. la sintax es 
 %s' %variablecuyocontenidollamo (en vez de 's' va a 'f' si es un float e 'i' si es un entero)
 5f%' %variablecuyocontenidolllamo (el 4 mete 4 espacios CONTADOS DDE INICIO DEL RENGLON
