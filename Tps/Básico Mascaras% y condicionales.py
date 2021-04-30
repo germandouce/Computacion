@@ -7,8 +7,8 @@ adelante la variable osea que (ver verde) si la variable ocupa menos no le cambi
 representa que es float)
 %6.2 el 6 es el total que ocupa el numero original. el .2 redondea el numero a 2 posicones
 '''
-#la cantidad de espacio total que se acompaña a la máscara sólo
-# importa si el número ocupa menos, satura con blancos
+#la cantidad de espacio total que acompaña a la máscara sólo importa si 
+# el número ocupa menos, # satura con blancos
 # cuando se fijan posiciones decimales se redondea
 # el número antes del punto con formato f es el total que ocupa, no la parte entera
 '''
