@@ -47,7 +47,7 @@ exit()
 '''
 #opcion 2
 '''
-cantHoras=int(input('Ingrese la cantidad de horas trabajadas: '))
+cantHoras = int(input('Ingrese la cantidad de horas trabajadas: '))
 valorHora=float(input('Ingrese valor de la hora de trabajo: '))
 hijos=int(input('Tiene hijos? (1-Si; 0-No): '))
 total=cantHoras*valorHora
