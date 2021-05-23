@@ -101,4 +101,3 @@ if juega(tablero,60):
   print('PERDISTE EL JUEGO!!!')
 else:
   print('GANASTE EL JUEGO!!!')
-'''
