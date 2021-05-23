@@ -792,7 +792,7 @@ while opc in opciones:
         print(numeros)
         print('ADIOS')
 '''
-#Ejercicio de autoevaluacion 200
+#Ejercicio de autoevaluacion 2
 '''Cargar números naturales (0 es salida ) y para cada uno de ellos determinar 
 su reverso'''
 '''
